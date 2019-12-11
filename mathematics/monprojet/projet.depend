@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492715043 source:c:\users\lyaissata\desktop\mes projets c\projet\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"lu.h"
+	"cholesky.h"
+
+1492699085 c:\users\lyaissata\desktop\mes projets c\projet\lu.h
+	<stdio.h>
+	<stdlib.h>
+
+1492699883 c:\users\lyaissata\desktop\mes projets c\projet\cholesky.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
